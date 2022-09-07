@@ -47,5 +47,5 @@ ACTIVITY
   c. git push -u origin master
 27. Go to your GitHub repository. You should see your changes.
 28. Create pull request.
-29. 
+
 *** If you finish early, consider adding some additional functionality of your own. Be creative. Ex. ensure that speed does not exceed max speed.
